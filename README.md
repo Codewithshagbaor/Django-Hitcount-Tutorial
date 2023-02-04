@@ -6,7 +6,7 @@ Simple Blog App using django-hitcount package
 Install dependencies by following commad:
 
 ```
-pip3 install requirements.txt
+pip install requirements.txt
 ```
 and run the project
 
